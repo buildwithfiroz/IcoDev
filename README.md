@@ -73,7 +73,7 @@ Perfect for building developer portfolios, tech blogs, landing pages, or project
 > **Step 1:**  
 > Clone the repository  
 > ```bash
-> git clone https://github.com/yourusername/IcoDev.git
+> git clone https://github.com/buildwithfiroz/IcoDev.git
 > ```
 >
 > **Step 2:**  

@@ -1,0 +1,11 @@
+[theme]
+base="light"
+primaryColor="#ffffff"
+secondaryBackgroundColor="#eef7fa"
+textColor="#000000"
+
+[ui]
+hideTopBar = true
+
+[server]
+watchFileSystem = "off"

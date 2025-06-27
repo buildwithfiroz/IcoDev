@@ -59,7 +59,9 @@ Perfect for building developer portfolios, tech blogs, landing pages, or project
 > A platform that gives you beautiful, HD SVG icons for programming languages, dev tools, and design software — instantly usable, clean, and CDN-ready.
 
 <br> 
+
 https://github.com/user-attachments/assets/714386ae-0626-4ab4-bc34-2640375ca62a
+
 <br>
 
 > [!TIP] 

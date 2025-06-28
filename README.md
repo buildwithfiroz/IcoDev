@@ -8,14 +8,28 @@
 
 Perfect for building developer portfolios, tech blogs, landing pages, or project documentation, IcoDev lets you quickly integrate clean, minimal icons without downloading files or complex setup.
 
+<a href="https://github.com/buildwithfiroz/IcoDev.git"><img  width='13%' src="https://img.shields.io/badge/Open%20Source-❤️-brightgreen.svg" alt="Open Source" /></a> &nbsp;
+
 
 
 <br>
+
+
 
 > [!TIP] 
 > Stop searching for icons manually — just plug & play with IcoDev.
+>
+> <p align="left"> <a href="https://icodev-io.onrender.com/" target="_blank"> <img 
+>      src="https://img.shields.io/badge/🔗%20Live%20Demo-Click%20Here-39B47C?style=for-the-badge" 
+>      alt="Live Demo" 
+>      width="200" 
+>    />
+>  </a>
+> </p>
 
 <br>
+<br>
+
 
 <p align="left">
   <!-- Front-End -->
@@ -29,7 +43,7 @@ Perfect for building developer portfolios, tech blogs, landing pages, or project
 </p>
 
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="src/lannding.png" alt="Desktop View" width="100%" />
@@ -123,8 +137,26 @@ https://github.com/user-attachments/assets/714386ae-0626-4ab4-bc34-2640375ca62a
 
 <br>
 
-## 👨‍💻 Author
-For questions or support, reach out to:  
+## 👨‍💻 Author - Contact Information
 
-- [@buildwithfiroz](https://github.com/buildwithfiroz)
-- buildbyfiroz@icloud.com  
+
+<br>
+<p align="center">
+  <a href="https://github.com/buildwithfiroz">
+    <img width='22.2%' src="https://img.shields.io/badge/GitHub-@buildwithfiroz-181717?logo=github&style=plastic" alt="GitHub" /></a>  &nbsp;  &nbsp;
+  <a href="mailto:buildbyfiroz@icloud.com">
+    <img width='26%' src="https://img.shields.io/badge/Email-buildbyfiroz@icloud.com-blue?logo=gmail&style=plastic" alt="Email" /></a>  &nbsp;  &nbsp;
+  <a href="https://github.com/buildwithfiroz/IcoDev/blob/main/LICENSE">
+    <img width='11%' src="https://img.shields.io/badge/License-MIT-green?style=plastic" alt="MIT License" /></a>  &nbsp;  &nbsp;
+  <a href="https://github.com/buildwithfiroz/IcoDev">
+    <img width='13%' src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=plastic" alt="Open Source" /></a> &nbsp;  &nbsp;
+</p>
+
+<br>
+
+<p align="center"><b>Made with ❤️ by Firoz</b></p>
+
+
+
+
+

@@ -1,7 +1,7 @@
-<h1 align="left" style="display: flex; align-items: center;">
+<h2 align="left" style="display: flex; align-items: center;">
   <img src="https://d17azs2fqvxy2n.cloudfront.net/icon2.0/icodev.svg" width="35" style="border-radius: 50%; margin-right: 10px;" />
     IcoDev — Instant SVG Icons for Developers, Designers & Tech Projects
-</h1>
+</h2>
 
 
 **IcoDev** is a lightweight, fast-loading icon library providing high-quality, ready-to-use SVG icons for popular **programming languages**, **design tools**, and **developer platforms.**
